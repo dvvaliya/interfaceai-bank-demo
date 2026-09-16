@@ -37,4 +37,4 @@ Import this repository into Vercel. No environment variables or database are req
 
 ## Scope
 
-This repository currently contains only the fake target application. LLM discovery, Playwright automation, artifact recording, deterministic replay, and operator handoff will be added as a separate layer.
+This directory contains only the fake target application. The LLM discovery, Playwright automation, artifact recording, deterministic replay, and operator handoff system lives in `../automation`.
